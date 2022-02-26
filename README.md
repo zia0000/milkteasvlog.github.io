@@ -57,7 +57,7 @@ const siteMetadata = {
   comment: {
     provider: 'utterances',
     utterancesConfig: {
-      repo: 'goleedev/blog-comment',
+      repo: 'goleedev/blog',
       issueTerm: 'title',
       label: 'Comment 💬',
       theme: 'github-light',
@@ -69,7 +69,7 @@ const siteMetadata = {
 
 상기 예시처럼 본인의 정보를 `siteMetadata.js`에 추가해주시면 됩니다. 
 
-`comment`는 따로 public repository를 생성하여 추가해주시면 됩니다 :)
+`comment`는 본인의 유저네임/해당 repository를 적어 주시면 됩니다 :)
 
 ---
 ## `authors/default.md` 업데이트하기 - data/authors 폴더에 존재
