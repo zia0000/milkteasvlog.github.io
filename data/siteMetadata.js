@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: '',
-  author: '',
-  headerTitle: '',
-  description: '',
+  title: 'MK BLOG',
+  author: 'MK',
+  headerTitle: 'Ready set.',
+  description: '개발을 공부하는 과정을 기록합니다',
   language: 'ko-KR',
   siteUrl: '',
   siteRepo: '',
